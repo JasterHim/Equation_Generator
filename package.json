@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "lib/index.js",
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/JasterHim/Equation_Generator.git"
